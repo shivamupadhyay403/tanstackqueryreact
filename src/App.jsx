@@ -1,9 +1,8 @@
-import React from 'react'
+import React from "react";
+import Table from "./Table";
 
 const App = () => {
-  return (
-    <div>App</div>
-  )
-}
+  return <Table />;
+};
 
-export default App
+export default App;
